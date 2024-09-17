@@ -1,3 +1,4 @@
  created text1.txt file
 hello my dear friends
 this my new friend
+this is my new friend
